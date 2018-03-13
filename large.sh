@@ -10,7 +10,4 @@ then
 echo "$b largest"
 else
 echo "$c largest"
-
-read na
-
 fi
